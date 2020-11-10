@@ -1,1 +1,2 @@
-# Bounce-Off-Function-By-Bhargavi
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
